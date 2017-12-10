@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "redux-talk",
+  "version": "0.0.0",
+  "description": "Redux Best Practices",
+  "license": "MIT",
+  "author": "Federico Knüssel <fknussel@gmail.com>",
+  "repository": "https://github.com/fknussel/redux-talk.git",
+  "scripts": {
+    "start": "remarker",
+    "build": "remarker build"
+  },
+  "dependencies": {
+    "remarker": "^1.5.1"
+  }
+}

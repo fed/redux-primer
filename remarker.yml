@@ -1,0 +1,7 @@
+port: 6789
+title: 'Redux Best Practices'
+css: '' # overrides default styles
+cssFiles: ['style.css']
+remarkConfig:
+  highlightStyle: github
+  highlightLines: true
