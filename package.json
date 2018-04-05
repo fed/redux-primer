@@ -11,6 +11,7 @@
     "build": "remarker build"
   },
   "dependencies": {
-    "remarker": "^1.5.1"
+    "remarker": "^1.5.1",
+    "slides-base-css": "^1.0.0"
   }
 }

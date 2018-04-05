@@ -145,9 +145,9 @@ switch (action.type) {
 
 ---
 
-class: center, middle, inverse, thanks
+class: center, middle, inverse, contact-details
 
-## .secondary[Slides:] https://bit.ly/asd
+## .secondary[Slides:] https://fknussel.com
 
 ## .secondary[Email:] fknussel@gmail.com
 
