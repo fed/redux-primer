@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "redux-talk",
+  "name": "redux-primer",
   "version": "0.0.0",
-  "description": "Redux Best Practices",
+  "description": "A Redux Primer",
   "license": "MIT",
   "author": "Federico Knüssel <fknussel@gmail.com>",
-  "repository": "https://github.com/fknussel/redux-talk.git",
+  "repository": "https://github.com/fknussel/redux-primer.git",
   "scripts": {
     "start": "remarker",
     "build": "remarker build"
